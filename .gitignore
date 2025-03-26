@@ -172,6 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
 .cd-reminder
 connect-venv.sh
+#API Keys and GPT assistant ID
+/src/API_Key.txt
+/src/assistant_id.txt
